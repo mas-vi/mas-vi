@@ -6,6 +6,6 @@ I'm mas-vi! I'm working on some fun projects while trying to make the most out o
 
 # Main projects
 
-## This list is currently empty!:(
+- This list is currently empty!:(
 
 
