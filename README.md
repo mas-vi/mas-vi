@@ -8,7 +8,7 @@ I'm mas-vi! I'm working on some fun projects while trying to make the most out o
 
 # Main projects
 
-RDP Calculator
+RDP Calculator, Chaos-Game
 
 
 
